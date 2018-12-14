@@ -7,4 +7,10 @@ but I very much intend to expand on what I've made in my free time.
 The Demo can be played in most non-mobile browsers, check it!
 https://spicygarlicalbacoreroll.github.io/cs480PaperProjDemo/
 
-I intend to add a dialogue system, and potentially combat next.
+Controls:
+Movement is Arrows/WASD
+E and Q to pan right and left
+space to jump
+r to confirm (in this case only implemented to load into the forest scene)
+
+I intend to add a dialogue system, more characters, and potentially combat next, maybe over winter break.
